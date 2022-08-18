@@ -1,0 +1,5 @@
+package javamysql;
+
+class string {
+    
+}
